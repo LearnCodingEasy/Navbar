@@ -55,7 +55,9 @@
 </template>
 
 <script>
-export default { name: "" };
+export default { name: "Navbar1" };
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+
+</style>
